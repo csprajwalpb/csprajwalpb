@@ -1,5 +1,5 @@
 ![Masterhead](https://github.com/user-attachments/assets/41382913-b33d-4f64-8231-66469becc75d)
-<h1 align="center">Hello 👋, I'm Prajwal P Bailkeri</h1>
+<h1 align="center">Hello 👋, I'm Prajwal P B</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csprajwalpb&label=Profile%20views&color=0e75b6&style=flat" alt="csprajwalpb" /> </p>
