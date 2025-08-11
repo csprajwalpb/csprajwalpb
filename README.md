@@ -31,7 +31,7 @@
 </div>
 <br>
 
-### 🐍 Watch my contributions snake its way through!!!
+### 🐍 Watch my contributions snake its way through!!
 
 <br clear="both">
 <p align="center">
